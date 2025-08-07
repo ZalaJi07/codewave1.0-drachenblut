@@ -54,16 +54,18 @@ Audio File → Speech API → Text Transcript → AI Analysis → Ranked Problem
 ### Installation Steps
 
 1. **Clone the repository**
-git clone https://github.com/ZalaJi07/codewave1.0-drachenblut.git
-cd codewave1.0-drachenblut.git
+- git clone https://github.com/ZalaJi07/codewave1.0-drachenblut.git
 
-2. **Install Node Modules**
+2. **Go to Directory**
+- cd codewave1.0-drachenblut.git
+
+3. **Install Node Modules**
 npm install
 
-3. **Run the Application**
+4. **Run the Application**
 npm run dev
 
-4. **Access the web interface**
+5. **Access the web interface**
 Open browser and go to: http://localhost:3000
 
 ### Testing the Setup
