@@ -76,6 +76,6 @@ Audio File → Speech API → Text Transcript → AI Analysis → Ranked Problem
 
 - **Harshrajsinh Gohil** - Frontend Development & UI/UX
 - **Mann Dalsaniya** - Backend Development & AI Integration
-- **Harashdeepsinh Zala** - Audio Processing & API Integration
+- **Harashdeepsinh Zala** - Audio Datasets
 
 ---
