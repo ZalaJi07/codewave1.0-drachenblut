@@ -45,8 +45,6 @@ Audio File → Speech API → Text Transcript → AI Analysis → Ranked Problem
 
 ## Setup Instructions
 
-### Prerequisites
-- Whisper AI Key
 
 ### Installation Steps
 
