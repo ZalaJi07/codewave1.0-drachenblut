@@ -32,7 +32,7 @@ Audio File → Speech API → Text Transcript → AI Analysis → Ranked Problem
 
 ### Backend:
 - **NODE.JS**
-- **Llama** (audio processing)
+- **oLlama** (audio processing)
 
 ### APIs & AI:
 - **Whisper** (audio transcription)
